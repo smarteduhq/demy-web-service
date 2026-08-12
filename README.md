@@ -81,3 +81,7 @@ Context and integration tests require a reachable database for the active profil
 - [`demy-web-app`](https://github.com/smarteduhq/demy-web-app): Angular client for this API.
 - [`demy-landing-page`](https://github.com/smarteduhq/demy-landing-page): public product website.
 - [`demy-report`](https://github.com/smarteduhq/demy-report): academic report, design decisions, and sprint evidence.
+
+## License
+
+This repository is distributed under the [MIT License](./LICENSE).

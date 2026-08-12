@@ -57,8 +57,8 @@ public class OpenApiConfiguration {
 
         // Configure license information
         var license = new License()
-                .name("Apache 2.0")
-                .url("https://www.apache.org/licenses/LICENSE-2.0");
+                .name("MIT")
+                .url("https://opensource.org/license/mit");
 
         // Configure API information
         var info = new Info()
